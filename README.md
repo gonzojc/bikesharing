@@ -1,16 +1,14 @@
 # NYC Citi BikeSharing
 
-[link to dashboard] (https://public.tableau.com/app/profile/jesse.gonzalez4411/viz/NYCCitiBikeStory_16497794567990/NYCCitiBike#1)
+## Purpose
 
-The written analysis has the following:
+The purpose of this project was to use Tableau to visualize 2019 bike sharing program data in New York City. The goal is to see how the data can provide some further insight into times, locations, and renter gender. After the concept is proven and presented, it could then be applied to other cities.
 
-Overview of the statistical analysis:
+## Results
 
-The purpose of the analysis is well defined. (5 pt)
-Results:
+The bike sharing data visualization indicates that it is very popular in New York City. Using Tableau, the visual story provides further insight in the demographic of the users, how long the bikes are used for, most popular starting/ending points, and best times for maintenance. The most popular checkout times is between 0400-0600 am and the most riders using the bikes occurs on Thursdays between 1700-1800 pm. Ultimately, males are the main users of the bikes, mainly for afterwork commutes.
 
-There are at least seven visualizations for the NYC Citibike analysis (7 pt)
-There is a description of the results for each visualization (7 pt)
-Summary:
+Link to the bike sharing dashboard: (https://public.tableau.com/app/profile/jesse.gonzalez4411/viz/NYCCitiBikeStory_16497794567990/NYCCitiBike#1)
 
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+## Summary
+
