@@ -12,3 +12,4 @@ Link to the bike sharing dashboard: (https://public.tableau.com/app/profile/jess
 
 ## Summary
 
+The data from August 2019 consists of user types (subscriber & customer), genders (male, female, & unknown), and business data points (times & bike maintenance). The customers are the most important part of the dataset. Identifying trends in who is using the bikes, as well as timeframes, prepares the business to be able to conduct proper maintenance during downtimes and mitigate bike shortfalls during more popular times. This allows for more revenue and better customer service. Popular rental locations can also be identified in order to make sure there is adequate stock based on the timeframes. The most popular trip duration is between 3-8 hours with varying start and stop points, which can also be further analyzed for efficiency. 
