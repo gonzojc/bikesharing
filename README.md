@@ -12,15 +12,27 @@ Link to the bike sharing dashboard: (https://public.tableau.com/app/profile/jess
 
 ### Checkout Times for Users
 
+![This is an image](https://github.com/gonzojc/bikesharing/blob/main/images/checkouttimeforusers.png)
+
 ### Checkout Times by Gender
+
+![This is an image](https://github.com/gonzojc/bikesharing/blob/main/images/checkouttimepergender.png)
 
 ### Trips by Weekday for Each Hour
 
+![This is an image](https://github.com/gonzojc/bikesharing/blob/main/images/tripsbyweekdayperhour.png)
+
 ### Trips by Gender (Weekday per Hour)
+
+![This is an image](https://github.com/gonzojc/bikesharing/blob/main/images/tripsbygenderhour.png)
 
 ### User Trips by Gender by Weekday
 
+![This is an image](https://github.com/gonzojc/bikesharing/blob/main/images/usersbygender.png)
+
 ### Start / End Map
+
+![This is an image](https://github.com/gonzojc/bikesharing/blob/main/images/topstartinglocations.png) ![This is an image](https://github.com/gonzojc/bikesharing/blob/main/images/topendinglocations.png)
 
 ## Summary
 
